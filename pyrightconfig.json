@@ -1,0 +1,9 @@
+{
+  "typeCheckingMode": "standard",
+  "reportMissingTypeStubs": "warning",
+  "reportAny": false,
+  "reportExplicitAny": false,
+  "reportImplicitStringConcatenation": false,
+  "reportImportCycles": false,
+  "pythonVersion": "3.12"
+}
